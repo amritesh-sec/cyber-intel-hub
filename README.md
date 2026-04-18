@@ -11,4 +11,4 @@ General cybersecurity intelligence hub — part of the [amritesh-sec](https://am
 
 ---
 
-© Amritesh · [CC BY-NC-ND 4.0](https://amritesh-sec.github.io/license/) Z
+© Amritesh · [CC BY-NC-ND 4.0](https://amritesh-sec.github.io/license/)
